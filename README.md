@@ -11,3 +11,10 @@ Credenciales :
    usuario = admin@admin
 <br>
   clave = admin
+  <br>
+  //
+  <br>
+   usuario = admin2@admin
+<br>
+  clave = admin2
+
